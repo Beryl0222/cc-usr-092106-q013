@@ -1,0 +1,12 @@
+[
+  {
+    "id": "merchant-design-a",
+    "kind": "退税商户",
+    "name": "国产设计品牌门店甲"
+  },
+  {
+    "id": "port-air-t1",
+    "kind": "离境口岸",
+    "name": "航空口岸一号区"
+  }
+]
