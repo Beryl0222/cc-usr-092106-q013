@@ -2,11 +2,46 @@
   {
     "id": "merchant-design-a",
     "kind": "退税商户",
-    "name": "国产设计品牌门店甲"
+    "name": "国产设计品牌集合店甲"
+  },
+  {
+    "id": "merchant-design-b",
+    "kind": "退税商户",
+    "name": "青瓷制品商户乙"
+  },
+  {
+    "id": "brand-house-a",
+    "kind": "品牌授权方",
+    "name": "苏韵品牌方"
+  },
+  {
+    "id": "brand-house-b",
+    "kind": "品牌授权方",
+    "name": "龙泉青瓷品牌方"
+  },
+  {
+    "id": "cat-silk-scarf",
+    "kind": "商品类别",
+    "name": "真丝印花围巾"
+  },
+  {
+    "id": "cat-celadon-teapot",
+    "kind": "商品类别",
+    "name": "青瓷茶壶"
   },
   {
     "id": "port-air-t1",
     "kind": "离境口岸",
-    "name": "航空口岸一号区"
+    "name": "航空口岸一号查验区"
+  },
+  {
+    "id": "port-air-t2",
+    "kind": "离境口岸",
+    "name": "航空口岸二号查验区"
+  },
+  {
+    "id": "port-land-r1",
+    "kind": "离境口岸",
+    "name": "陆路口岸一号查验区"
   }
 ]
